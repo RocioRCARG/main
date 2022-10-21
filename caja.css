@@ -1,0 +1,31 @@
+.grupo1{
+    border: 2px solid coral;
+}
+.circulo{
+    background: chocolate;
+    border-radius: 50%;
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+}
+.cuadrado{
+    background: cornflowerblue;
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+}
+.fila1{
+    display: flex;
+    justify-content: space-between;
+}
+.fila2{
+    display: flex;
+    justify-content: space-around;
+
+}
+.fila3{
+    display: flex;
+    justify-content: center;
+}
